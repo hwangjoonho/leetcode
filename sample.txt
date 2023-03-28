@@ -2,6 +2,12 @@
 sdfsddfsdfsdafsdfsdfsdafsdf이제된건
 이건 origin에서 ㅅ수정
 
+
 asdfsd
+<<<<<<< HEAD
 ㅁㄴㅇㄹㄴㅇㅁㄹㅇ
 ㅇㄻㄴㅇㄴㅇㅁ
+=======
+zzzzzzzzzzㄷㄱㅈㄷㄱ23ㄱ
+fetch teste
+>>>>>>> 0109fb40281be7974f026fb4c525ab3d2a7ac565
