@@ -6,6 +6,7 @@ public class gitTest {
         int c = 0;
         int d = 0;
         int e = 0;
+        String = "추가해본다";
         int f = 0;
         int g = 0;
         int h = 0;
