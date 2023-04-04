@@ -4,7 +4,7 @@ public class FileUploadDTO{
 
         private String file_name;
 
-        private
+//        private
 
 
 

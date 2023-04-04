@@ -10,7 +10,8 @@ public class q5 {
 
         ArrayList a = new ArrayList(Arrays.asList("a", "b"));
 
-        System.out.println(a);
+
+
 
     }
 }
