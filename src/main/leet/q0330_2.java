@@ -29,16 +29,16 @@ public class q0330_2 {
 
                      sum2 +=nums[nums.length-1-k];
 
-                    if (((sum1 == sum2 || i+j==nums.length) &&(i<j-))) {
-                        System.out.println("sum1 : " + sum1 + "은 이거고 sum2는 왼쪽이거다 : " + sum2 + "파이봇인덱스는 : "+i+"이고 j는 뭐지"+j);
-                        break loop1;
-                    } else if (( sum1 == 0 || sum2 == 0 )&& i + j == nums.length) {
-                        System.out.println("The pivot index is 0.");
-                        break loop1;
-                    } else if (i+j==nums.length){
-                        System.out.println("There is no index that satisfies the conditions in the problem statement.");
-                        break loop1;
-                    }
+//                    if (((sum1 == sum2 || i+j==nums.length) &&(i<j-))) {
+//                        System.out.println("sum1 : " + sum1 + "은 이거고 sum2는 왼쪽이거다 : " + sum2 + "파이봇인덱스는 : "+i+"이고 j는 뭐지"+j);
+//                        break loop1;
+//                    } else if (( sum1 == 0 || sum2 == 0 )&& i + j == nums.length) {
+//                        System.out.println("The pivot index is 0.");
+//                        break loop1;
+//                    } else if (i+j==nums.length){
+//                        System.out.println("There is no index that satisfies the conditions in the problem statement.");
+//                        break loop1;
+//                    }
 
                 }
 //                    System.out.println("sum2 : "+sum2);
